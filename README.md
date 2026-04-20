@@ -4,5 +4,5 @@ This tutorial shows how to convert a Flask web application into a desktop applic
 
 📌 Full tutorial: https://python-post.blogspot.com/2026/04/how-to-build-contact-form-for-sme_21.html
 
-![image_source](https://github.com/Kelvin-Data/...)
+![image_source](https://github.com/Kelvin-Data/desktop_flask/blob/623704d66bacd3e1ddf83ee1926edd48a04f6985/Flask_desktop_app.png)
 
