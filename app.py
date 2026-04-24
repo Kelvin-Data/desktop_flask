@@ -93,22 +93,4 @@ if __name__ == '__main__':
     # app.run(host='127.0.0.1', port=5000, debug=True)
     ui(app=app, server="flask", width=1000, height=1000).run()
     
-# python flask_ckeditor/app.py
 
-'''
-pip install pyinstaller
-python flask_ckeditor_desktop/app.py
-
-under the powershell
-pyinstaller --onefile `
---add-data "flask_ckeditor_desktop\templates;templates" `
---add-data "flask_ckeditor_desktop\message.db;." `
---icon "D:\Learning App\Flask-learning\Flask_ckeditor_desktop\my.ico" `
-flask_ckeditor_desktop\app.py
-
-pyinstaller --onefile --noconsole `
---add-data "flask_ckeditor_desktop\templates;templates" `
---add-data "flask_ckeditor_desktop\message.db;." `
---icon "Flask_ckeditor_desktop\my.ico" `
-flask_ckeditor_desktop\app.py
-'''
